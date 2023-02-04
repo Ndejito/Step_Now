@@ -1,4 +1,4 @@
 # Commit Issues
 
-Trying to commit for an ssh agent with renamed terminal
+Trying to commit from an ssh agent with renamed terminal
 
